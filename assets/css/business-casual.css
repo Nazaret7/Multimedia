@@ -212,3 +212,12 @@ footer ul li{
         clear: both;
     }
 }
+.footer_img{
+    padding: 30px;
+    text-align: center;
+}
+.carousel-indicators{
+    top: 20px;
+    bottom: 0;
+    height: 20px;
+}
