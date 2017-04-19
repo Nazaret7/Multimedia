@@ -113,7 +113,22 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
-
+.postales{
+    max-width: 100%;
+    margin: 50px auto;
+}
+.postal img{
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+.active img{
+    -ms-transform: scale(1.1, 1.1); /* IE 9 */
+    -webkit-transform: scale(1.1, 1.1); /* Safari */
+    transform: scale(1.1, 1.1);
+    max-width: auto;
+    max-height: auto;
+}
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
@@ -220,4 +235,7 @@ footer ul li{
     top: 20px;
     bottom: 0;
     height: 20px;
+}
+.variable{
+    color: grey;
 }
