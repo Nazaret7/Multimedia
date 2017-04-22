@@ -236,6 +236,22 @@ footer ul li{
     bottom: 0;
     height: 20px;
 }
+.video_div{
+    text-align: center
+}
+.video_div p{
+    margin-top: 20px;
+}
+.video_div video{
+    max-width: 100%;
+}
+.titulo_plato{
+    text-align: center;
+}
+.pasos{
+    margin-top: 20px;
+}
+
 .variable{
     color: grey;
 }

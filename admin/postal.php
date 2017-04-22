@@ -111,7 +111,7 @@ echo "
                     </ul>
                 </div>
                 <div class='col-xs-6 text-right'>
-                    <img atl='Facebook' class='footer-img' src='../assets/img/fb_icon.png'>
+                    <img alt='Facebook' class='footer-img' src='../assets/img/fb_icon.png'>
                 </div>
             </div>
         </div>
