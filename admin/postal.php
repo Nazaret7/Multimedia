@@ -68,10 +68,10 @@ echo "
                         <a href='../modules/music.html'>Música</a>
                     </li>
                     <li>
-                        <a href='../modules/blog.html'>Vídeos</a>
+                        <a href='../modules/videos.html'>Vídeos</a>
                     </li>
                     <li>
-                        <a href='../modules/blog.html'>Conoce Mordor</a>
+                        <a href='../modules/moreMordor.html'>Conoce Mordor</a>
                     </li>
                     <li>
                         <a href='../modules/contact.html'>Contacto</a>
@@ -121,7 +121,8 @@ echo "
     <script src='../assets/js/jquery.js'></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src='../ajs/bootstrap.min.js'></script>
+    <script src='../assets/js/bootstrap.min.js'></script>
+    <script src='../assets/js/scripts.js'></script>
 
 </body>
 

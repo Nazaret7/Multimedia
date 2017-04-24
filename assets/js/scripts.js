@@ -9,6 +9,6 @@ $(document).ready(function(){
     	});
     	$(this).addClass('active');
     	$('.postal_saved').val($(this).children().attr('src'));
+    	console.log($('.postal_saved').val());
     })
 })
-   
